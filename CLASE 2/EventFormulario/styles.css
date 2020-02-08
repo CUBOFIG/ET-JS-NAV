@@ -1,0 +1,10 @@
+body{
+  margin: 0 auto;
+  width: 250px;
+  margin-top:40px
+}
+
+
+[type="checkbox"]{
+display: inlineblock
+}

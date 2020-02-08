@@ -1,0 +1,16 @@
+body{
+  margin: 0 auto;
+  display: flex;
+  min-height: 100vh;
+  width: 300px;
+  margin-top:40px
+}
+
+.ball{
+  --size: 60px;
+  width: var(--size);
+  height:  var(--size);
+  border-radius: 50%;
+  background: purple;
+  margin; auto;
+}
